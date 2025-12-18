@@ -7,10 +7,13 @@ specially that i dont know much coding.
 
 maybe ill do more updates if i could, but feel free to edit it, ill leave the source code in a folder.
 
+if you wanted to make a better version feel free, but please credit me for the work i did even if its not in the code.
+
 my github page is https://github.com/MexrlDev/
 
 -------------------
 
 have a great day..
+
 
 -------------------
