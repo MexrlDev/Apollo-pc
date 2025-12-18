@@ -2,9 +2,9 @@
 
 **Made From https://github.com/bucanero/apollo-ps3 using python, thank you.**
 
-**MADE USING Pyinstaller executables, SO IT IS NOT A VIRUS, SCANNED WITH VIRUS TOTAL AND GAVE 5/72 DON'T KNOW WHY BUT YOU CAN READ  THE ORIGINAL CODE OR TURN IT INTO EXE YOURSELF, ITS NOT MALICIOUS, ALSO YOU CAN ASK ANY AI AND IT'LL SAY THAT IT IS NOT A MALEWARE OR A VIRUS FILE**
+**MADE USING Pyinstaller executables, SO IT IS NOT A VIRUS, SCANNED WITH VIRUS TOTAL AND GAVE 5/72 DON'T KNOW WHY BUT YOU CAN READ  THE ORIGINAL CODE OR TURN IT INTO EXE YOURSELF, ITS NOT MALICIOUS, ALSO YOU CAN ASK ANY AI AND IT'LL SAY THAT IT IS NOT A MALEWARE OR A VIRUS FILE "https://www.virustotal.com/gui/file/98b810cf67868a01f1277257fed3a9dae59091285eda5d19a0d6378e6c8e8cd5/detection"**
 
--- **AI IMPROVED ITS NOT A VIRUS "https://copilot.microsoft.com/shares/cNvwxx2Z91BxJQibWaCgs"(sorry for the way i typed i was kinds lazy)**
+-- **AI IMPROVED ITS NOT A VIRUS "https://copilot.microsoft.com/shares/cNvwxx2Z91BxJQibWaCgs" (sorry for the way i typed i was kinds lazy)**
 
  12/17/2025 i finished the project of the ui.
 
@@ -23,6 +23,7 @@ have a great day..
 
 
 -------------------
+
 
 
 
